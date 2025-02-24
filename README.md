@@ -2,6 +2,8 @@
 
 This repository contains a Streamlit application demonstrating a LangChain agent powered by Groq's fast LLM, capable of performing web searches, retrieving information from Arxiv, and querying Wikipedia.
 
+Live demo video :- https://drive.google.com/file/d/12c4weB-9R8AJOZ-n2z6YyukGHJE-Fa92/view?usp=sharing
+
 ## Overview
 
 This application allows users to interact with a chatbot that can:
